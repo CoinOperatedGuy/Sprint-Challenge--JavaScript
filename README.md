@@ -29,9 +29,9 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead
 
 1. Describe the biggest difference between `.forEach` & `.map`.
-
+    The forEach() method calls a function (a callback function) once for each array element. The map() method creates a new array by performing a function on each array element.
 2. What is the difference between a function and a method?
-
+    A JavaScript function is a block of code designed to perform a particular task and is executed when "something" invokes it (calls it), and a method is a property containing a function definition that can be performed on objects.
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
